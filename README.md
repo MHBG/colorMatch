@@ -5,4 +5,4 @@ Update to 1.14.0+
 Version
 
 # version
-1.0.0
+1.1.0
