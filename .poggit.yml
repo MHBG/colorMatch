@@ -2,5 +2,5 @@
 build-by-default: true
 branches:
 - master
-projects: [1.0.0]
+projects: [1.1.0]
 ...
